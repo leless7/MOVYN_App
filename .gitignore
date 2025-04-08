@@ -410,3 +410,32 @@ web-build/
 
 # JetBrains Rider
 *.sln.iml
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings (opcional, caso queira manter pessoais)
+.vscode/
+
+# Logs
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+.vs/
+
+# Database local (caso use)
+*.mdf
+*.ldf
+*.db
+
+# Others
+*.DS_Store
+Thumbs.db
