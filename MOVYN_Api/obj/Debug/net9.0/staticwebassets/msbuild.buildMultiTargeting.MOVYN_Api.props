@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MOVYN_Api.props" />
+</Project>

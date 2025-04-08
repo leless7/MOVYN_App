@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WM2+S0cIg5HgG2UkOs/Kf9DRhC32qaa/XreB4NmCwpE=",
+  "Source": "MOVYN_Api",
+  "BasePath": "_content/MOVYN_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

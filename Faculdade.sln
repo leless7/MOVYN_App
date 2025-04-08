@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOVYN_Api", "MOVYN_Api\MOVYN_Api.csproj", "{130FDE2C-9BAC-8EA8-63D6-350C2F898D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130FDE2C-9BAC-8EA8-63D6-350C2F898D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130FDE2C-9BAC-8EA8-63D6-350C2F898D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130FDE2C-9BAC-8EA8-63D6-350C2F898D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130FDE2C-9BAC-8EA8-63D6-350C2F898D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBA46D2-8531-477A-B5E9-844A68EB8DA7}
+	EndGlobalSection
+EndGlobal
